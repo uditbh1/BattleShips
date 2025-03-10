@@ -143,7 +143,7 @@ npm install
 
 4. **Run the game:**  
 ```bash
-npm start
+npx webpack serve
 ```
 
 ---
